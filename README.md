@@ -4,7 +4,7 @@ This variable dump example is for PHP, modeled after CFML's cfdump tag.
 
 ## Example screenshot:
 
-![Dump](https://raw.githubusercontent.com/geeklectic/php-dump/master/example.png)
+![Dump](https://raw.githubusercontent.com/orangeable/php-dump/master/example.png)
 
 ## To dump data, you just have to add the following code:
 
