@@ -197,6 +197,10 @@
                         background-color: #c75e5e;
                     }
 
+                    table.dump_table tr th.header {
+                        color: #333;
+                    }
+                    
                     table.dump_table tr th.header.struct {
                         background-color: #ccddff;
                     }
@@ -223,6 +227,11 @@
                     table.dump_table tr th,
                     table.dump_table tr td {
                         padding: 3px;
+                    }
+
+                    table.dump_table tr td {
+                        background-color: white;
+                        color: #333;
                     }
                 </style>
 
